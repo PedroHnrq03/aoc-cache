@@ -56,8 +56,8 @@ Gera `resultados/tempos.csv`, `resultados/tempo_vs_n.png` e `resultados/razao_vs
 
 | Item | Valor |
 |---|---|
-| CPU | _preencher_ |
-| Cache L1d / L2 / L3 | _preencher (`lscpu` no WSL)_ |
+| CPU | AMD Ryzen 5 3500U (4 núcleos) |
+| Cache L1d / L2 / L3 | 32 KiB / 512 KiB por núcleo; 4 MiB compartilhada |
 | Sistema | Windows + WSL (Ubuntu) |
 | Compilador | `gcc -O2 -fno-tree-vectorize` |
 
